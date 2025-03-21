@@ -1,0 +1,4 @@
+ign
+.env
+.env.dev
+# .env.prod
