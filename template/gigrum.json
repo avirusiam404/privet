@@ -1,6 +1,6 @@
 {
-    "155":{
-        "DELETED":0,
+    "0":{
+        "BANISHED":0,
         
         "name":"мАфЕя",
         "description":"я не знаю как еграть мАфЕя\n\nЗахади к нам https://google.com",
@@ -14,67 +14,25 @@
         "creationDate":"-24297698317",
         "modifyDate":"-24295558317",
         "blobz":[],
-        "strikez":[
-            {"id":21,"uzid":5120,"type":2,"comment":"рома гэй, все параша :("}
-        ],
         "url":[
             {"n":"HCj152BzMS","t":0},
             {"n":"mAfEyAxD","t":1}
         ],
         "tama":[
-            {
-                "tama":"-24298848317",
-                "tamaEnd":"-24298841117",
-                "tamaCheck":"900",
-                "price":"100",
-                "status":1,
-                "roomerz":[
-                    {"id":1520,"checkined":1},
-                    {"id":5120,"checkined":1}
-                ],
-                "otmenaReazon":"",
-                "place":{"id":"01-25-5152"},
-                "description":"я люблю играть в мАфЕя, эта все маи игри :)",
-                "id":288,
-                "masterid":200,
-                "blobz":[150]
-            },
-            {
-                "tama":"-15178872617",
-                "tamaEnd":"-15178870817",
-                "tamaCheck":"900",
-                "price":"100",
-                "status":0,
-                "roomerz":[
-                    {"id":170022,"checkined":0},
-                    {"id":190251,"checkined":0}
-                ],
-                "otmenaReazon":"",
-                "place":{"id":"01-25-5152"},
-                "description":"я люблю играть в мАфЕя, эта все маи игри :)",
-                "id":228,
-                "masterid":51500,
-                "blobz":[]
-            },
-            {
-                "tama":"-15178812317",
-                "tamaEnd":"-15178807817",
-                "tamaCheck":"900",
-                "price":"100",
-                "status":0,
-                "roomerz":[
-                ],
-                "otmenaReazon":"",
-                "place":{"id":"01-25-5152"},
-                "description":"я люблю играть в мАфЕя, эта все маи вштречи :)",
-                "id":777,
-                "masterid":51500,
-                "blobz":[]
-            }
+            0,1,2
         ],
         "suberz":[
             {
-                "id":200,
+                "id":0,
+                "statusI":1,
+                "statusS":1,
+                "rank":3,
+                "NoChekinsReazon":[
+                ],
+                "feedbackz":[]
+            },
+            {
+                "id":1,
                 "statusI":1,
                 "statusS":1,
                 "rank":2,
@@ -83,16 +41,7 @@
                 "feedbackz":[]
             },
             {
-                "id":51500,
-                "statusI":1,
-                "statusS":1,
-                "rank":2,
-                "NoChekinsReazon":[
-                ],
-                "feedbackz":[]
-            },
-            {
-                "id":1520,
+                "id":2,
                 "statusI":1,
                 "statusS":1,
                 "rank":0,
@@ -102,7 +51,7 @@
                 "inblacklizt":0
             },
             {
-                "id":5120,
+                "id":3,
                 "statusI":1,
                 "statusS":1,
                 "rank":0,
@@ -112,17 +61,7 @@
                 "inblacklizt":1
             },
             {
-                "id":170022,
-                "statusI":0,
-                "statusS":0,
-                "rank":0,
-                "NoChekinsReazon":[
-                ],
-                "feedbackz":[],
-                "inblacklizt":0
-            },
-            {
-                "id":190251,
+                "id":4,
                 "statusI":0,
                 "statusS":1,
                 "rank":0,

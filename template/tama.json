@@ -1,0 +1,52 @@
+{
+    "i":{
+        "0":{
+            "tama":"-24298848317",
+            "tamaEnd":"-24298841117",
+            "tamaCheck":"900",
+            "price":"100",
+            "status":1,
+            "roomerz":[
+                {"id":0,"checkined":1},
+                {"id":1,"checkined":1}
+            ],
+            "otmenaReazon":"",
+            "place":{"id":"01-25-5152"},
+            "description":"я люблю играть в мАфЕя, эта все маи игри :)",
+            "masterid":200,
+            "blobz":[150]
+        },
+        "1":{
+            "tama":"-15178872617",
+            "tamaEnd":"-15178870817",
+            "tamaCheck":"900",
+            "price":"100",
+            "status":0,
+            "roomerz":[
+                {"id":170022,"checkined":0},
+                {"id":190251,"checkined":0}
+            ],
+            "otmenaReazon":"",
+            "place":{"id":"01-25-5152"},
+            "description":"я люблю играть в мАфЕя, эта все маи игри :)",
+            "id":228,
+            "masterid":51500,
+            "blobz":[]
+        },
+        "2":{
+            "tama":"-15178812317",
+            "tamaEnd":"-15178807817",
+            "tamaCheck":"900",
+            "price":"100",
+            "status":0,
+            "roomerz":[
+            ],
+            "otmenaReazon":"",
+            "place":{"id":"01-25-5152"},
+            "description":"я люблю играть в мАфЕя, эта все маи вштречи :)",
+            "id":777,
+            "masterid":51500,
+            "blobz":[]
+        }
+    }
+}

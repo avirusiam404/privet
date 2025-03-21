@@ -1,13 +1,17 @@
 # Eto ne dolzhno sushestvovat :)
 
-> `0/1` x `true/false`
+> `gigrum.json>0/1` x `true/false`
 >
-> `vozrast>0/1/2/3/4/5` x `0/7/12/14/16/18`
+> `gigrum.json>vozrast>0/1/2/3/4/5` x `0/7/12/14/16/18` -- xD, idk what to put here
 >
-> `strikez>?>type>0/1/2` x `Idk rn/Zaschitani/Otbiti`
+> `gigrum.json>url>?>t>0/1` x `Private/Public`
 >
-> `url>?>t>0/1` x `Private/Public`
+> `gigrum.json>suberz>?>rank>0/1/2/3` x `Roomer/Moder/Master/Hozyain`
 >
-> `tama>?>status>0/1/2/3` x `Ne nachalsa/Zakonchilsa/Otmenil Master/Ne sobralis roomeri`
+> `tama.json>i>?>status>0/1/2/3` x `Ne nachalsa/Zakonchilsa/Otmenil Master/Ne sobralis roomeri`
 >
-> `suberz>?>rank>0/1/2/3` x `Roomer/Moder/Master/Hozyain`
+> `userz.json>i>?>role>0/1/2` x `ChillGuy/[STAFF] Support/[STAFF] Administation`
+>
+> `strikez.json>?>type>0/1/2` x `Idk rn/Zaschitani/Otbiti`
+
+# MB i forgot smth :(

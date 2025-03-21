@@ -1,0 +1,9 @@
+{
+    "i":{
+        "0":{"BANISHED":0,"regiDate":-5000000000000000,"schoverified":1,"role":0,"premiumEndTime":"NULL","lockedProfile":1,"igrums":[0],"feedbackz":[]},
+        "1":{"BANISHED":0,"regiDate":-4000000000000000,"schoverified":1,"role":0,"premiumEndTime":"NULL","lockedProfile":1,"igrums":[0],"feedbackz":[]},
+        "2":{"BANISHED":0,"regiDate":-4000000000000000,"schoverified":0,"role":0,"premiumEndTime":1500000000000000000000000,"lockedProfile":1,"igrums":[0],"feedbackz":[0]},
+        "3":{"BANISHED":0,"regiDate":-3000000000000000,"schoverified":0,"role":0,"premiumEndTime":"NULL","lockedProfile":1,"igrums":[0],"feedbackz":[1]},
+        "4":{"BANISHED":0,"regiDate":-3000000000000000,"schoverified":0,"role":0,"premiumEndTime":"NULL","lockedProfile":1,"igrums":[0],"feedbackz":[]}
+    }
+}
